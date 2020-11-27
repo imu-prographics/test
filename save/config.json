@@ -1,6 +1,6 @@
 {
   "architectures": [
-    "ElectraForSequenceClassification"
+    "ElectraPreTrainedModel"
   ],
   "attention_probs_dropout_prob": 0.1,
   "embedding_size": 128,
